@@ -1,5 +1,5 @@
 # QRCode_Generator
- Make Free QR Codes in Ruby
+ Make Free QR Codes With Ruby
 
 
 # Before Use
