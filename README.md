@@ -2,7 +2,12 @@
  Make Free QR Codes in Ruby
 
 
-# Usage instructions
+# Before Use
+For MacOS (may work on other operating systems with some variation)
+Make sure you have Ruby installed --
+(https://www.ruby-lang.org/en/documentation/installation/)
+
+#Instructions
   1. From your terminal cd into the QRCode_Generator folder.
   2. Run command "bundle install" (for MacOS, idk the command for other OS)
   3. Open QRCode_Generator in your favorite coding app (VS Code, Atom, etc.)
