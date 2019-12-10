@@ -4,6 +4,7 @@
 
 # Before Use
 For MacOS (may work on other operating systems with some variation)
+
 Make sure you have Ruby installed --
 (https://www.ruby-lang.org/en/documentation/installation/)
 
