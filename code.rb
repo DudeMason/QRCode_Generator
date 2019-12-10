@@ -19,7 +19,7 @@ require 'launchy'
 
 def yay
 
-  qrcode = RQRCode::QRCode.new("--Your URL Here--")
+  qrcode = RQRCode::QRCode.new("--Your QR Link Here--")
 
   png = qrcode.as_png(
     bit_depth: 1,
