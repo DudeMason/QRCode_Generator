@@ -5,7 +5,7 @@
 #
 # require 'rqrcode_core'
 #
-# qr = RQRCodeCore::QRCode.new('https://www.myzyia.com/sistersinzyia', size: 5, level: :h, mode: :kanji)
+# qr = RQRCodeCore::QRCode.new('--your link here--', size: 5, level: :h, mode: :kanji)
 # qr.modules.each do |row|
 #   row.each do |col|
 #     print col ? '#' : ' '
